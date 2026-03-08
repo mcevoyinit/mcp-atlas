@@ -1,0 +1,12 @@
+[project]
+name = "mcp-atlas-server"
+version = "0.1.0"
+description = "MCP discovery server — find the right MCP tools for any task. Backed by a DGraph database of 2,100+ categorized, quality-scored servers."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "mcp>=1.26.0",
+]
+
+[project.scripts]
+mcp-atlas = "server:mcp.run"

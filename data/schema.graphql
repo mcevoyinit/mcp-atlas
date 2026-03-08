@@ -1,0 +1,67 @@
+type Server {
+  name: String! @id @search(by: [hash, term, fulltext])
+  displayName: String @search(by: [term, fulltext])
+  description: String @search(by: [fulltext])
+  githubUrl: String @search(by: [hash])
+  npmPackage: String @search(by: [hash])
+  pypiPackage: String @search(by: [hash])
+  homepage: String
+  language: String @search(by: [hash])
+  license: String @search(by: [hash])
+  version: String
+  transport: [String]
+  stars: Int @search
+  downloadsWeekly: Int @search
+  downloadsMonthly: Int @search
+  useCount: Int @search
+  lastCommit: DateTime @search
+  createdAt: DateTime @search
+  qualityScore: Float @search
+  bestFor: String @search(by: [fulltext])
+  pricing: String @search(by: [hash])
+  hasTools: [Tool] @hasInverse(field: server)
+  inCategories: [Category] @hasInverse(field: servers)
+  compatibleWith: [Stack] @hasInverse(field: servers)
+  listings: [Listing]
+}
+
+type Tool {
+  id: ID!
+  name: String! @search(by: [hash, term])
+  title: String @search(by: [term])
+  description: String @search(by: [fulltext])
+  inputSchema: String
+  outputSchema: String
+  parameterCount: Int @search
+  server: Server!
+}
+
+type Category {
+  name: String! @id @search(by: [hash, term])
+  slug: String! @search(by: [hash])
+  description: String
+  displayOrder: Int @search
+  servers: [Server]
+  parentCategory: Category
+  subCategories: [Category] @hasInverse(field: parentCategory)
+}
+
+type Stack {
+  name: String! @id @search(by: [hash, term])
+  slug: String! @search(by: [hash])
+  servers: [Server]
+}
+
+type Listing {
+  id: ID!
+  registry: String! @search(by: [hash])
+  registryId: String @search(by: [hash])
+  registryUrl: String
+  verified: Boolean @search
+  isDeployed: Boolean @search
+  trafficWeekly: Int @search
+  securityGrade: String @search(by: [hash])
+  qualityGrade: String @search(by: [hash])
+  lastCrawled: DateTime @search
+  rawData: String
+}

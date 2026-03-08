@@ -1,0 +1,46 @@
+# MCP Atlas - Local DGraph instance
+# Ports offset by +10000 from default to avoid conflict with other DGraph instances
+
+services:
+  dgraph-zero:
+    image: dgraph/dgraph:v25.0.0
+    container_name: mcp-atlas-dgraph-zero
+    ports:
+      - "15080:5080"   # gRPC internal
+      - "16080:6080"   # HTTP admin
+    command: dgraph zero --my=dgraph-zero:5080
+    volumes:
+      - dgraph_zero_data:/dgraph
+    networks:
+      - mcp-atlas-network
+
+  dgraph-alpha:
+    image: dgraph/dgraph:v25.0.0
+    container_name: mcp-atlas-dgraph-alpha
+    ports:
+      - "18080:8080"   # HTTP + GraphQL
+      - "19080:9080"   # gRPC
+    command: >
+      dgraph alpha
+        --my=dgraph-alpha:7080
+        --zero=dgraph-zero:5080
+        --security "whitelist=0.0.0.0/0"
+    volumes:
+      - dgraph_alpha_data:/dgraph
+    networks:
+      - mcp-atlas-network
+    depends_on:
+      - dgraph-zero
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8080/health"]
+      interval: 10s
+      timeout: 5s
+      retries: 5
+
+volumes:
+  dgraph_zero_data:
+  dgraph_alpha_data:
+
+networks:
+  mcp-atlas-network:
+    driver: bridge

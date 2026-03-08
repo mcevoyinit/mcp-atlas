@@ -1,0 +1,2445 @@
+{
+  "success": 80,
+  "failed": 120,
+  "skipped": 0,
+  "details": [
+    {
+      "name": "io.github.MervinPraison/praisonai",
+      "package": "praisonai",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.CursorTouch/Windows-MCP",
+      "package": "windows_mcp",
+      "status": "failed",
+      "error": "An executable named `windows_mcp` is not provided by package `windows-mcp`."
+    },
+    {
+      "name": "io.github.brave/brave-search-mcp-server",
+      "package": "@brave/brave-search-mcp-server",
+      "status": "failed",
+      "error": "Error: --brave-api-key is required. You can get one at https://brave.com/search/api/."
+    },
+    {
+      "name": "io.github.neo4j-contrib/mcp-neo4j-cypher",
+      "package": "mcp-neo4j-cypher",
+      "status": "failed",
+      "error": "Warning: No Neo4j connection URL provided. Using default: bolt://localhost:7687"
+    },
+    {
+      "name": "io.github.ruvnet/ruv-swarm",
+      "package": "ruv-swarm",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.llmsresearch/paperbanana",
+      "package": "paperbanana",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 1458 bytes)"
+    },
+    {
+      "name": "io.github.aahl/mcp-aktools",
+      "package": "mcp-aktools",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.Snowflake-Labs/mcp",
+      "package": "snowflake-labs-mcp",
+      "status": "failed",
+      "error": "[02/17/26 21:47:41] INFO     Starting Snowflake MCP Server...      server.py:607"
+    },
+    {
+      "name": "io.github.browserstack/mcp-server",
+      "package": "@browserstack/mcp-server",
+      "status": "failed",
+      "error": "Error: BROWSERSTACK_USERNAME environment variable is required"
+    },
+    {
+      "name": "io.github.PV-Bhat/vibe-check-mcp-server",
+      "package": "@pv-bhat/vibe-check-mcp",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 633 bytes)"
+    },
+    {
+      "name": "io.github.neo4j-contrib/mcp-neo4j-aura-manager",
+      "package": "mcp-neo4j-aura-manager",
+      "status": "failed",
+      "error": "2026-02-17 21:47:50,325 - mcp_neo4j_aura_manager.utils - ERROR - Error: No Neo4j Aura Client ID provided. Please provide it as an argument or environment variable."
+    },
+    {
+      "name": "io.github.stefanoamorelli/sec-edgar-mcp",
+      "package": "sec-edgar-mcp",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.HZYAI/ragscore",
+      "package": "ragscore",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 4936 bytes)"
+    },
+    {
+      "name": "io.github.KuudoAI/amazon_ads_mcp",
+      "package": "amazon-ads-mcp",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.SoundBlaster/mcpbridge-wrapper",
+      "package": "mcpbridge-wrapper",
+      "status": "failed",
+      "error": "xcrun: error: unable to find utility \"mcpbridge\", not a developer tool or in PATH"
+    },
+    {
+      "name": "io.github.b1ff/atlassian-dc-mcp-confluence",
+      "package": "@atlassian-dc-mcp/confluence",
+      "status": "failed",
+      "error": "throw new Error(`Missing required environment variables: ${missingEnvVars.join(', ')}`);"
+    },
+    {
+      "name": "io.github.mhajder/librenms-mcp",
+      "package": "librenms-mcp",
+      "status": "failed",
+      "error": "2026-02-17 21:47:56,484 - librenms_mcp.server - ERROR - Invalid configuration: 2 validation errors for LibreNMSConfig"
+    },
+    {
+      "name": "io.github.ruvnet/claude-flow",
+      "package": "claude-flow",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.paulbreuler/limps",
+      "package": "@sudosandwich/limps",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 952 bytes)"
+    },
+    {
+      "name": "io.github.aahl/mcp-notify",
+      "package": "mcp-notify",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.airweave-ai/search",
+      "package": "airweave-mcp-search",
+      "status": "failed",
+      "error": "Error: AIRWEAVE_API_KEY environment variable is required"
+    },
+    {
+      "name": "io.github.GLips/Figma-Context-MCP",
+      "package": "figma-developer-mcp",
+      "status": "failed",
+      "error": "node:events:485"
+    },
+    {
+      "name": "io.github.raisiqueira/django-telescope",
+      "package": "django-telescope",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.aahl/mcp-vods",
+      "package": "mcp-vods",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.firebase/firebase-mcp",
+      "package": "firebase-tools",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 20164 bytes)"
+    },
+    {
+      "name": "com.xcodebuildmcp/XcodeBuildMCP",
+      "package": "xcodebuildmcp",
+      "status": "failed",
+      "error": "Usage: xcodebuildmcp <command> [options]"
+    },
+    {
+      "name": "io.github.cameroncooke/XcodeBuildMCP",
+      "package": "xcodebuildmcp",
+      "status": "failed",
+      "error": "Usage: xcodebuildmcp <command> [options]"
+    },
+    {
+      "name": "io.github.vishalsachdev/canvas-mcp",
+      "package": "canvas-mcp",
+      "status": "failed",
+      "error": "An executable named `canvas-mcp` is not provided by package `canvas-mcp`."
+    },
+    {
+      "name": "io.github.isdaniel/mcp_weather_server",
+      "package": "mcp-weather-server",
+      "status": "failed",
+      "error": "An executable named `mcp-weather-server` is not provided by package `mcp-weather-server`."
+    },
+    {
+      "name": "io.github.dynatrace-oss/dynatrace-managed-mcp",
+      "package": "@dynatrace-oss/dynatrace-managed-mcp-server",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "com.gitscrum/mcp",
+      "package": "@gitscrum-studio/mcp-server",
+      "status": "failed",
+      "error": "Warning: No authentication token found. Use auth_login tool to authenticate."
+    },
+    {
+      "name": "io.github.leshchenko1979/fast-mcp-telegram",
+      "package": "fast-mcp-telegram",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.oxylabs/oxylabs-mcp",
+      "package": "oxylabs-mcp",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.kontent-ai/mcp-server",
+      "package": "@kontent-ai/mcp-server",
+      "status": "failed",
+      "error": "Please specify a valid transport type: stdio or shttp"
+    },
+    {
+      "name": "com.microsoft/azure",
+      "package": "@azure/mcp",
+      "status": "failed",
+      "error": "Required command was not provided."
+    },
+    {
+      "name": "com.microsoft/template-server-name",
+      "package": "@azure/mcp-template",
+      "status": "failed",
+      "error": "Required command was not provided."
+    },
+    {
+      "name": "com.microsoft/microsoft-fabric",
+      "package": "@microsoft/fabric-mcp",
+      "status": "failed",
+      "error": "Required command was not provided."
+    },
+    {
+      "name": "io.github.nirholas/abi-to-mcp",
+      "package": "abi-to-mcp",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 1296 bytes)"
+    },
+    {
+      "name": "io.github.basicmachines-co/basic-memory",
+      "package": "basic-memory",
+      "status": "failed",
+      "error": "Usage: basic-memory [OPTIONS] COMMAND [ARGS]..."
+    },
+    {
+      "name": "com.supabase/mcp",
+      "package": "@supabase/mcp-server-supabase",
+      "status": "failed",
+      "error": "Please provide a personal access token (PAT) with the --access-token flag or set the SUPABASE_ACCESS_TOKEN environment variable"
+    },
+    {
+      "name": "io.github.alexboissAV/artefact-revenue-intelligence",
+      "package": "artefact-mcp",
+      "status": "failed",
+      "error": "[Artefact MCP] No license key found. Running in free mode (sample data only)."
+    },
+    {
+      "name": "io.github.firecrawl/firecrawl-mcp-server",
+      "package": "firecrawl-mcp",
+      "status": "failed",
+      "error": "Either FIRECRAWL_API_KEY or FIRECRAWL_API_URL must be provided"
+    },
+    {
+      "name": "io.github.aplaceforallmystuff/mcp-arr",
+      "package": "mcp-arr-server",
+      "status": "failed",
+      "error": "node:internal/modules/package_json_reader:267"
+    },
+    {
+      "name": "io.github.ajtgjmdjp/edinet-mcp",
+      "package": "edinet-mcp",
+      "status": "failed",
+      "error": "Usage: edinet-mcp [OPTIONS] COMMAND [ARGS]..."
+    },
+    {
+      "name": "io.github.tm42/mnemograph",
+      "package": "mnemograph",
+      "status": "failed",
+      "error": "Usage: mnemograph [OPTIONS] COMMAND [ARGS]..."
+    },
+    {
+      "name": "io.github.bytedance/mcp-server-filesystem",
+      "package": "@agent-infra/mcp-server-filesystem",
+      "status": "failed",
+      "error": "Usage: mcp-server-filesystem --allowed-directories <allowed-directories>"
+    },
+    {
+      "name": "io.github.bytedance/mcp-server-search",
+      "package": "@agent-infra/mcp-server-search",
+      "status": "failed",
+      "error": "node:internal/modules/cjs/loader:1408"
+    },
+    {
+      "name": "io.github.Qiskit/qiskit-ibm-transpiler-mcp-server",
+      "package": "qiskit-ibm-transpiler-mcp-server",
+      "status": "failed",
+      "error": "[02/17/26 21:49:07] INFO     Starting MCP server 'Qiskit IBM      server.py:2506"
+    },
+    {
+      "name": "io.github.beycom/onetool-mcp",
+      "package": "onetool-mcp",
+      "status": "failed",
+      "error": "An executable named `onetool-mcp` is not provided by package `onetool-mcp`."
+    },
+    {
+      "name": "io.github.Qiskit/qiskit-ibm-runtime-mcp-server",
+      "package": "qiskit-ibm-runtime-mcp-server",
+      "status": "failed",
+      "error": "[02/17/26 21:49:09] INFO     Starting MCP server 'Qiskit IBM      server.py:2506"
+    },
+    {
+      "name": "io.github.Qiskit/qiskit-gym-mcp-server",
+      "package": "qiskit-gym-mcp-server",
+      "status": "failed",
+      "error": "[02/17/26 21:49:11] INFO     Starting MCP server 'Qiskit Gym'     server.py:2506"
+    },
+    {
+      "name": "io.github.winedarksea/AutoTS",
+      "package": "autots-mcp",
+      "status": "success",
+      "toolCount": 28,
+      "tools": [
+        "list_cache",
+        "clear_cache",
+        "load_sample_data",
+        "load_live_data",
+        "generate_synthetic_data",
+        "load_data_from_file",
+        "get_data",
+        "convert_long_to_wide",
+        "clean_data",
+        "forecast_fast",
+        "forecast_explainable",
+        "forecast_custom",
+        "get_autots_docs",
+        "get_forecast",
+        "plot_forecast",
+        "apply_constraints",
+        "apply_adjustments",
+        "get_model_params",
+        "get_forecast_components",
+        "get_validation_results",
+        "plot_validation",
+        "forecast_event_risk",
+        "get_event_risk_results",
+        "plot_event_risk",
+        "detect_features",
+        "get_detected_features",
+        "plot_features",
+        "forecast_from_features"
+      ]
+    },
+    {
+      "name": "io.github.pinchwork/pinchwork",
+      "package": "pinchwork",
+      "status": "failed",
+      "error": "Package `pinchwork` does not provide any executables."
+    },
+    {
+      "name": "io.github.amaterous/picoli-mcp",
+      "package": "picoli-mcp",
+      "status": "failed",
+      "error": "picoli-mcp: Configuration error:"
+    },
+    {
+      "name": "io.github.robotmcp/ros-mcp-server",
+      "package": "ros-mcp",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.mims-harvard/tooluniverse",
+      "package": "tooluniverse",
+      "status": "failed",
+      "error": "\ud83d\ude80 Starting ToolUniverse SMCP Server..."
+    },
+    {
+      "name": "io.github.Mediaeater/swarm-at",
+      "package": "swarm-at-sdk",
+      "status": "failed",
+      "error": "Package `swarm-at-sdk` does not provide any executables."
+    },
+    {
+      "name": "io.github.mongodb-js/mongodb-mcp-server",
+      "package": "mongodb-mcp-server",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.spences10/mcp-turso-cloud",
+      "package": "mcp-turso-cloud",
+      "status": "failed",
+      "error": "Failed to initialize server: Error: Missing required configuration:"
+    },
+    {
+      "name": "io.github.bytebase/dbhub",
+      "package": "@bytebase/dbhub",
+      "status": "failed",
+      "error": "Checking for env file: .env"
+    },
+    {
+      "name": "io.github.homeassistant-ai/ha-mcp",
+      "package": "ha-mcp",
+      "status": "failed",
+      "error": "=============================================================================="
+    },
+    {
+      "name": "io.github.brightdata/brightdata-mcp",
+      "package": "@brightdata/mcp",
+      "status": "failed",
+      "error": "throw new Error('Cannot run MCP server without API_TOKEN env');"
+    },
+    {
+      "name": "io.github.domdomegg/starling-bank-mcp",
+      "package": "starling-bank-mcp",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "com.knitli/codeweaver",
+      "package": "code-weaver",
+      "status": "failed",
+      "error": "An executable named `code-weaver` is not provided by package `code-weaver`."
+    },
+    {
+      "name": "com.appsai/mcp-server",
+      "package": "@appsai/mcp-server",
+      "status": "success",
+      "toolCount": 0,
+      "tools": []
+    },
+    {
+      "name": "io.github.timescale/pg-aiguide",
+      "package": "@tigerdata/pg-aiguide",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.getsentry/sentry-mcp",
+      "package": "@sentry/mcp-server",
+      "status": "failed",
+      "error": "Error: No access token was provided. Pass one with `--access-token` or via `SENTRY_ACCESS_TOKEN`."
+    },
+    {
+      "name": "io.github.aidancorrell/spark-sql-mcp-server",
+      "package": "spark-sql-mcp-server",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.JonesRobM/physbound",
+      "package": "physbound",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.domdomegg/airtable-mcp-server",
+      "package": "airtable-mcp-server",
+      "status": "failed",
+      "error": "Error: airtable-mcp-server: No API key provided. Set it in the `AIRTABLE_API_KEY` environment variable"
+    },
+    {
+      "name": "io.github.motherduckdb/mcp-server-motherduck",
+      "package": "mcp-server-motherduck",
+      "status": "failed",
+      "error": "Usage: mcp-server-motherduck [OPTIONS]"
+    },
+    {
+      "name": "io.github.neo4j-contrib/mcp-neo4j-data-modeling",
+      "package": "mcp-neo4j-data-modeling",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.neo4j-contrib/mcp-neo4j-memory",
+      "package": "mcp-neo4j-memory",
+      "status": "failed",
+      "error": "Warning: No Neo4j connection URL provided. Using default: bolt://localhost:7687"
+    },
+    {
+      "name": "io.github.SimplyMinimal/fleet-mcp",
+      "package": "fleet-mcp",
+      "status": "failed",
+      "error": "Usage: fleet-mcp [OPTIONS] COMMAND [ARGS]..."
+    },
+    {
+      "name": "io.github.oogunbiyi21/stats-compass",
+      "package": "stats-compass-mcp",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 588 bytes)"
+    },
+    {
+      "name": "io.github.mapbox/mcp-server",
+      "package": "@mapbox/mcp-server",
+      "status": "failed",
+      "error": "node:internal/modules/cjs/loader:1405"
+    },
+    {
+      "name": "io.github.anyproto/anytype-mcp",
+      "package": "@anyproto/anytype-mcp",
+      "status": "failed",
+      "error": "Initializing Anytype MCP Server..."
+    },
+    {
+      "name": "io.github.Justice219/roblox-studio-mcp",
+      "package": "@jamesworkbenchcrm/roblox-studio-mcp",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.drfccv/mcp-server-12306",
+      "package": "mcp-server-12306",
+      "status": "success",
+      "toolCount": 7,
+      "tools": [
+        "query-tickets",
+        "query-ticket-price",
+        "search-stations",
+        "query-transfer",
+        "get-train-route-stations",
+        "get-train-no-by-train-code",
+        "get-current-time"
+      ]
+    },
+    {
+      "name": "io.github.KyuRish/patreon-mcp-server",
+      "package": "patreon-mcp-server",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.ChiR24/unreal-engine-mcp",
+      "package": "unreal-engine-mcp-server",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.spences10/mcp-omnisearch",
+      "package": "mcp-omnisearch",
+      "status": "success",
+      "toolCount": 0,
+      "tools": []
+    },
+    {
+      "name": "io.github.spences10/mcp-sqlite-tools",
+      "package": "mcp-sqlite-tools",
+      "status": "success",
+      "toolCount": 19,
+      "tools": [
+        "open_database",
+        "close_database",
+        "list_databases",
+        "database_info",
+        "list_tables",
+        "describe_table",
+        "create_table",
+        "drop_table",
+        "backup_database",
+        "vacuum_database",
+        "execute_read_query",
+        "execute_write_query",
+        "execute_schema_query",
+        "bulk_insert",
+        "begin_transaction",
+        "commit_transaction",
+        "rollback_transaction",
+        "export_schema",
+        "import_schema"
+      ]
+    },
+    {
+      "name": "io.github.robinmordasiewicz/f5xc-terraform-mcp",
+      "package": "@robinmordasiewicz/f5xc-terraform-mcp",
+      "status": "success",
+      "toolCount": 8,
+      "tools": [
+        "f5xc_terraform_discover",
+        "f5xc_terraform_docs",
+        "f5xc_terraform_api",
+        "f5xc_terraform_subscription",
+        "f5xc_terraform_addon",
+        "f5xc_terraform_metadata",
+        "f5xc_terraform_get_summary",
+        "f5xc_terraform_auth"
+      ]
+    },
+    {
+      "name": "io.github.kmalakoff/mcp-pdf",
+      "package": "@mcp-z/mcp-pdf",
+      "status": "success",
+      "toolCount": 5,
+      "tools": [
+        "pdf-document",
+        "pdf-image",
+        "pdf-layout",
+        "pdf-resume",
+        "text-measure"
+      ]
+    },
+    {
+      "name": "io.github.estruyf/vscode-demo-time",
+      "package": "@demotime/mcp",
+      "status": "success",
+      "toolCount": 1,
+      "tools": [
+        "search"
+      ]
+    },
+    {
+      "name": "io.github.OtherVibes/mcp-as-a-judge",
+      "package": "mcp-as-a-judge",
+      "status": "success",
+      "toolCount": 9,
+      "tools": [
+        "set_coding_task",
+        "get_current_coding_task",
+        "request_plan_approval",
+        "raise_obstacle",
+        "raise_missing_requirements",
+        "judge_coding_task_completion",
+        "judge_coding_plan",
+        "judge_code_change",
+        "judge_testing_implementation"
+      ]
+    },
+    {
+      "name": "io.github.hellocoop/admin-mcp",
+      "package": "@hellocoop/admin-mcp",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.VectifyAI/pageindex-mcp",
+      "package": "pageindex-mcp",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.dynatrace-oss/Dynatrace-mcp",
+      "package": "@dynatrace-oss/dynatrace-mcp-server",
+      "status": "failed",
+      "error": "Initializing Dynatrace MCP Server v1.4.0..."
+    },
+    {
+      "name": "io.github.comet-ml/opik-mcp",
+      "package": "opik-mcp",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.agenthotspot/agenthotspot-mcp",
+      "package": "agenthotspot-mcp",
+      "status": "failed",
+      "error": "Package `agenthotspot-mcp` does not provide any executables."
+    },
+    {
+      "name": "io.github.mhajder/zabbix-mcp",
+      "package": "zabbix-mcp",
+      "status": "failed",
+      "error": "2026-02-17 21:53:45,932 - zabbix_mcp.server - ERROR - Invalid configuration: 1 validation error for ZabbixConfig"
+    },
+    {
+      "name": "io.github.MIt9/comfy-ui-builder",
+      "package": "mcp-comfy-ui-builder",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.abelljs/abell",
+      "package": "abell-ai",
+      "status": "failed",
+      "error": "[abell-ai]: Correct usage of the script `npx abell-ai mcp`"
+    },
+    {
+      "name": "io.github.cyanheads/git-mcp-server",
+      "package": "@cyanheads/git-mcp-server",
+      "status": "success",
+      "toolCount": 28,
+      "tools": [
+        "git_add",
+        "git_blame",
+        "git_branch",
+        "git_changelog_analyze",
+        "git_checkout",
+        "git_cherry_pick",
+        "git_clean",
+        "git_clear_working_dir",
+        "git_clone",
+        "git_commit",
+        "git_diff",
+        "git_fetch",
+        "git_init",
+        "git_log",
+        "git_merge",
+        "git_pull",
+        "git_push",
+        "git_rebase",
+        "git_reflog",
+        "git_remote",
+        "git_reset",
+        "git_set_working_dir",
+        "git_show",
+        "git_stash",
+        "git_status",
+        "git_tag",
+        "git_worktree",
+        "git_wrapup_instructions"
+      ]
+    },
+    {
+      "name": "io.github.religa/multi-mcp",
+      "package": "multi-mcp",
+      "status": "failed",
+      "error": "2026-02-17 21:53:59,978 - multi_mcp.server - INFO - [SERVER] Starting Multi on stdio"
+    },
+    {
+      "name": "com.mux/mcp",
+      "package": "@mux/mcp",
+      "status": "success",
+      "toolCount": 98,
+      "tools": [
+        "create_video_assets",
+        "retrieve_video_assets",
+        "update_video_assets",
+        "list_video_assets",
+        "create_playback_id_video_assets",
+        "create_static_rendition_video_assets",
+        "create_track_video_assets",
+        "delete_playback_id_video_assets",
+        "delete_static_rendition_video_assets",
+        "delete_track_video_assets",
+        "generate_subtitles_video_assets",
+        "retrieve_input_info_video_assets",
+        "retrieve_playback_id_video_assets",
+        "update_master_access_video_assets",
+        "update_mp4_support_video_assets",
+        "list_video_delivery_usage",
+        "create_video_live_streams",
+        "retrieve_video_live_streams",
+        "update_video_live_streams",
+        "list_video_live_streams",
+        "complete_video_live_streams",
+        "create_playback_id_video_live_streams",
+        "create_simulcast_target_video_live_streams",
+        "delete_new_asset_settings_static_renditions_video_live_streams",
+        "delete_playback_id_video_live_streams",
+        "delete_simulcast_target_video_live_streams",
+        "disable_video_live_streams",
+        "enable_video_live_streams",
+        "reset_stream_key_video_live_streams",
+        "retrieve_playback_id_video_live_streams",
+        "retrieve_simulcast_target_video_live_streams",
+        "update_embedded_subtitles_video_live_streams",
+        "update_generated_subtitles_video_live_streams",
+        "update_new_asset_settings_static_renditions_video_live_streams",
+        "retrieve_video_playback_ids",
+        "create_video_playback_restrictions",
+        "retrieve_video_playback_restrictions",
+        "list_video_playback_restrictions",
+        "delete_video_playback_restrictions",
+        "update_referrer_video_playback_restrictions",
+        "update_user_agent_video_playback_restrictions",
+        "create_video_transcription_vocabularies",
+        "retrieve_video_transcription_vocabularies",
+        "update_video_transcription_vocabularies",
+        "list_video_transcription_vocabularies",
+        "delete_video_transcription_vocabularies",
+        "create_video_uploads",
+        "retrieve_video_uploads",
+        "list_video_uploads",
+        "cancel_video_uploads",
+        "retrieve_video_drm_configurations",
+        "list_video_drm_configurations",
+        "animated_video_playback",
+        "hls_video_playback",
+        "static_rendition_video_playback",
+        "storyboard_video_playback",
+        "storyboard_meta_video_playback",
+        "storyboard_vtt_video_playback",
+        "thumbnail_video_playback",
+        "track_video_playback",
+        "transcript_video_playback",
+        "list_data_dimensions",
+        "list_trace_elements_data_dimensions",
+        "list_values_data_dimensions",
+        "list_dimensions_data_monitoring",
+        "list_monitoring_data_metrics",
+        "get_breakdown_monitoring_data_metrics",
+        "get_breakdown_timeseries_monitoring_data_metrics",
+        "get_histogram_timeseries_monitoring_data_metrics",
+        "get_timeseries_monitoring_data_metrics",
+        "list_data_errors",
+        "list_video_views_data_exports",
+        "list_values_data_filters",
+        "retrieve_data_incidents",
+        "list_data_incidents",
+        "list_related_data_incidents",
+        "list_data_metrics",
+        "get_insights_data_metrics",
+        "get_overall_values_data_metrics",
+        "get_timeseries_data_metrics",
+        "list_breakdown_values_data_metrics",
+        "list_dimensions_data_real_time",
+        "list_metrics_data_real_time",
+        "retrieve_breakdown_data_real_time",
+        "retrieve_histogram_timeseries_data_real_time",
+        "retrieve_timeseries_data_real_time",
+        "retrieve_data_video_views",
+        "list_data_video_views",
+        "create_data_annotations",
+        "retrieve_data_annotations",
+        "update_data_annotations",
+        "list_data_annotations",
+        "delete_data_annotations",
+        "create_system_signing_keys",
+        "retrieve_system_signing_keys",
+        "list_system_signing_keys",
+        "delete_system_signing_keys",
+        "whoami_system_utilities"
+      ]
+    },
+    {
+      "name": "com.postman/postman-mcp-server",
+      "package": "@postman/postman-mcp-server",
+      "status": "failed",
+      "error": "Invalid environment variables for Postman MCP server: { _errors: [], POSTMAN_API_KEY: { _errors: [ 'Required' ] } }"
+    },
+    {
+      "name": "io.github.rhel-lightspeed/linux-mcp-server",
+      "package": "linux-mcp-server",
+      "status": "failed",
+      "error": "2026-02-17 21:54:18 | INFO | root | Logging initialized: /Users/mcevoyinit/.local/share/linux-mcp-server/logs"
+    },
+    {
+      "name": "io.github.chris-schra/mcp-funnel",
+      "package": "mcp-funnel",
+      "status": "failed",
+      "error": "Usage:"
+    },
+    {
+      "name": "dev.svelte/mcp",
+      "package": "@sveltejs/mcp",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "get-documentation",
+        "list-sections",
+        "playground-link",
+        "svelte-autofixer"
+      ]
+    },
+    {
+      "name": "io.github.karanb192/reddit-mcp-buddy",
+      "package": "reddit-mcp-buddy",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.PCfVW/mcp-arangodb-async",
+      "package": "mcp-arangodb-async",
+      "status": "success",
+      "toolCount": 46,
+      "tools": [
+        "arango_query",
+        "arango_list_collections",
+        "arango_insert",
+        "arango_update",
+        "arango_remove",
+        "arango_create_collection",
+        "arango_backup",
+        "arango_list_indexes",
+        "arango_create_index",
+        "arango_delete_index",
+        "arango_explain_query",
+        "arango_validate_references",
+        "arango_insert_with_validation",
+        "arango_bulk_insert",
+        "arango_create_schema",
+        "arango_validate_document",
+        "arango_query_builder",
+        "arango_query_profile",
+        "arango_create_graph",
+        "arango_add_edge",
+        "arango_traverse",
+        "arango_shortest_path",
+        "arango_list_graphs",
+        "arango_add_vertex_collection",
+        "arango_add_edge_definition",
+        "arango_bulk_update",
+        "arango_backup_graph",
+        "arango_restore_graph",
+        "arango_backup_named_graphs",
+        "arango_validate_graph_integrity",
+        "arango_graph_statistics",
+        "arango_database_status",
+        "arango_search_tools",
+        "arango_list_tools_by_category",
+        "arango_switch_workflow",
+        "arango_get_active_workflow",
+        "arango_list_workflows",
+        "arango_advance_workflow_stage",
+        "arango_get_tool_usage_stats",
+        "arango_unload_tools",
+        "arango_set_focused_database",
+        "arango_get_focused_database",
+        "arango_list_available_databases",
+        "arango_get_database_resolution",
+        "arango_graph_traversal",
+        "arango_add_vertex"
+      ]
+    },
+    {
+      "name": "io.github.railwayapp/mcp-server",
+      "package": "@railway/mcp-server",
+      "status": "success",
+      "toolCount": 14,
+      "tools": [
+        "check-railway-status",
+        "create-environment",
+        "create-project-and-link",
+        "deploy-template",
+        "deploy",
+        "generate-domain",
+        "get-logs",
+        "link-environment",
+        "link-service",
+        "list-deployments",
+        "list-projects",
+        "list-services",
+        "list-variables",
+        "set-variables"
+      ]
+    },
+    {
+      "name": "io.github.nesquikm/rubber-duck",
+      "package": "mcp-rubber-duck",
+      "status": "success",
+      "toolCount": 12,
+      "tools": [
+        "ask_duck",
+        "chat_with_duck",
+        "clear_conversations",
+        "list_ducks",
+        "list_models",
+        "compare_ducks",
+        "duck_council",
+        "duck_vote",
+        "duck_judge",
+        "duck_iterate",
+        "duck_debate",
+        "get_usage_stats"
+      ]
+    },
+    {
+      "name": "io.github.domdomegg/computer-use-mcp",
+      "package": "computer-use-mcp",
+      "status": "success",
+      "toolCount": 1,
+      "tools": [
+        "computer"
+      ]
+    },
+    {
+      "name": "io.github.michael-denyer/hot-memory-mcp",
+      "package": "hot-memory-mcp",
+      "status": "failed",
+      "error": "An executable named `hot-memory-mcp` is not provided by package `hot-memory-mcp`."
+    },
+    {
+      "name": "io.github.cyanheads/mcp-ts-template",
+      "package": "mcp-ts-template",
+      "status": "success",
+      "toolCount": 7,
+      "tools": [
+        "template_cat_fact",
+        "template_code_review_sampling",
+        "template_echo_message",
+        "template_image_test",
+        "template_madlibs_elicitation",
+        "template_data_explorer",
+        "template_async_countdown"
+      ]
+    },
+    {
+      "name": "io.github.zhongweili/nanobanana-mcp-server",
+      "package": "nanobanana-mcp-server",
+      "status": "failed",
+      "error": "2026-02-17 21:56:20,813 - root - INFO - Logging configured with level: INFO, format: standard"
+    },
+    {
+      "name": "io.github.Lyellr88/marm-mcp-server",
+      "package": "marm-mcp-server",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.kryptobaseddev/cleo-mcp-server",
+      "package": "@cleocode/mcp-server",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "cleo_query",
+        "cleo_mutate"
+      ]
+    },
+    {
+      "name": "io.github.cr7258/elasticsearch-mcp-server",
+      "package": "elasticsearch-mcp-server",
+      "status": "success",
+      "toolCount": 20,
+      "tools": [
+        "list_indices",
+        "get_index",
+        "create_index",
+        "delete_index",
+        "search_documents",
+        "index_document",
+        "get_document",
+        "delete_document",
+        "delete_by_query",
+        "get_cluster_health",
+        "get_cluster_stats",
+        "list_aliases",
+        "get_alias",
+        "put_alias",
+        "delete_alias",
+        "create_data_stream",
+        "get_data_stream",
+        "delete_data_stream",
+        "general_api_request",
+        "analyze_text"
+      ]
+    },
+    {
+      "name": "io.github.r-huijts/strava-mcp",
+      "package": "strava-mcp-server",
+      "status": "success",
+      "toolCount": 24,
+      "tools": [
+        "get-athlete-profile",
+        "get-athlete-stats",
+        "get-activity-details",
+        "get-recent-activities",
+        "list-athlete-clubs",
+        "list-starred-segments",
+        "get-segment",
+        "explore-segments",
+        "star-segment",
+        "get-segment-effort",
+        "list-segment-efforts",
+        "list-athlete-routes",
+        "get-route",
+        "export-route-gpx",
+        "export-route-tcx",
+        "get-activity-streams",
+        "get-activity-laps",
+        "get-athlete-zones",
+        "get-all-activities",
+        "get-activity-photos",
+        "get-server-version",
+        "connect-strava",
+        "disconnect-strava",
+        "check-strava-connection"
+      ]
+    },
+    {
+      "name": "io.github.formulahendry/code-runner",
+      "package": "mcp-server-code-runner",
+      "status": "success",
+      "toolCount": 1,
+      "tools": [
+        "run-code"
+      ]
+    },
+    {
+      "name": "io.github.delorenj/mcp-server-trello",
+      "package": "@delorenj/mcp-server-trello",
+      "status": "failed",
+      "error": "throw new Error(\"TRELLO_API_KEY and TRELLO_TOKEN environment variables are required\");"
+    },
+    {
+      "name": "io.github.luongnv89/mitre-mcp",
+      "package": "mitre-mcp",
+      "status": "success",
+      "toolCount": 9,
+      "tools": [
+        "get_techniques",
+        "get_tactics",
+        "get_groups",
+        "get_software",
+        "get_techniques_by_tactic",
+        "get_techniques_used_by_group",
+        "get_mitigations",
+        "get_techniques_mitigated_by_mitigation",
+        "get_technique_by_id"
+      ]
+    },
+    {
+      "name": "io.github.whistlegraph/aesthetic-computer",
+      "package": "@aesthetic.computer/mcp",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "publish_piece",
+        "publish_kidlisp",
+        "publish_clock",
+        "get_api_info"
+      ]
+    },
+    {
+      "name": "io.github.bunnyf/kicad-mcp-server",
+      "package": "kicad-mcp-server",
+      "status": "success",
+      "toolCount": 23,
+      "tools": [
+        "list_projects",
+        "run_drc",
+        "run_erc",
+        "fill_zones",
+        "auto_route",
+        "get_task_status",
+        "list_tasks",
+        "cleanup_tasks",
+        "get_board_info",
+        "export_gerber",
+        "export_bom",
+        "export_netlist",
+        "export_3d",
+        "export_svg",
+        "export_pdf",
+        "export_sch_pdf",
+        "export_sch_svg",
+        "export_step",
+        "export_jlcpcb",
+        "export_all",
+        "get_output_files",
+        "read_file",
+        "get_version"
+      ]
+    },
+    {
+      "name": "io.github.andylbrummer/molecular-mcp",
+      "package": "scicomp-molecular-mcp",
+      "status": "success",
+      "toolCount": 15,
+      "tools": [
+        "info",
+        "create_particles",
+        "add_potential",
+        "run_md",
+        "get_trajectory",
+        "compute_rdf",
+        "run_nvt",
+        "run_npt",
+        "compute_msd",
+        "analyze_temperature",
+        "detect_phase_transition",
+        "density_field",
+        "render_trajectory",
+        "load_distribution",
+        "list_distributions"
+      ]
+    },
+    {
+      "name": "io.github.xcollantes/jira-mcp",
+      "package": "jira-tools-mcp",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "io.github.varun29ankuS/shodh-memory",
+      "package": "@shodh/memory-mcp",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "com.keboola/mcp",
+      "package": "keboola-mcp-server",
+      "status": "failed",
+      "error": "Built json-log-formatter==1.1.1"
+    },
+    {
+      "name": "io.github.8beeeaaat/touchdesigner-mcp-server",
+      "package": "touchdesigner-mcp-server",
+      "status": "success",
+      "toolCount": 13,
+      "tools": [
+        "describe_td_tools",
+        "get_td_info",
+        "execute_python_script",
+        "create_td_node",
+        "delete_td_node",
+        "get_td_nodes",
+        "get_td_node_parameters",
+        "get_td_node_errors",
+        "update_td_node_parameters",
+        "exec_node_method",
+        "get_td_classes",
+        "get_td_class_details",
+        "get_td_module_help"
+      ]
+    },
+    {
+      "name": "io.github.n0zer0d4y/athena-protocol",
+      "package": "@n0zer0d4y/athena-protocol",
+      "status": "failed",
+      "error": "Running via npx - using MCP environment variables only"
+    },
+    {
+      "name": "io.github.img-src-io/mcp",
+      "package": "@img-src/mcp-server",
+      "status": "success",
+      "toolCount": 8,
+      "tools": [
+        "upload_image",
+        "list_images",
+        "search_images",
+        "get_image",
+        "delete_image",
+        "get_usage",
+        "get_settings",
+        "get_cdn_url"
+      ]
+    },
+    {
+      "name": "io.snyk/mcp",
+      "package": "snyk",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 2275 bytes)"
+    },
+    {
+      "name": "com.scoutapm/scout-mcp-local",
+      "package": "scout-mcp-local",
+      "status": "failed",
+      "error": "Traceback (most recent call last):"
+    },
+    {
+      "name": "ai.toolprint/hypertool-mcp",
+      "package": "@toolprint/hypertool-mcp",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 1540 bytes)"
+    },
+    {
+      "name": "io.github.team-telnyx/telnyx",
+      "package": "telnyx",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.priyankark/lighthouse-mcp",
+      "package": "lighthouse-mcp",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "run_audit",
+        "get_performance_score"
+      ]
+    },
+    {
+      "name": "io.github.YimingYAN/fivetran-mcp",
+      "package": "fivetran-mcp",
+      "status": "failed",
+      "error": "\u256d\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u2500\u256e"
+    },
+    {
+      "name": "io.github.alondmnt/joplin-mcp",
+      "package": "joplin-mcp",
+      "status": "failed",
+      "error": "2026-02-17 21:59:26,953 [ERROR] joplin_mcp.fastmcp_server: Failed to start FastMCP Joplin server: Authentication token missing. Set 'token' in joplin-mcp.json or JOPLIN_TOKEN env var."
+    },
+    {
+      "name": "io.github.ref-tools/ref-tools-mcp",
+      "package": "ref-tools-mcp",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "ref_search_documentation",
+        "ref_read_url"
+      ]
+    },
+    {
+      "name": "io.github.shinpr/sub-agents-mcp",
+      "package": "sub-agents-mcp",
+      "status": "failed",
+      "error": "Failed to start MCP server: Error: AGENTS_DIR environment variable is required."
+    },
+    {
+      "name": "io.github.gradion-ai/ipybox",
+      "package": "ipybox",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "register_mcp_server",
+        "install_package",
+        "execute_ipython_cell",
+        "reset"
+      ]
+    },
+    {
+      "name": "io.github.aplaceforallmystuff/mcp-threatintel",
+      "package": "mcp-threatintel-server",
+      "status": "success",
+      "toolCount": 6,
+      "tools": [
+        "threatintel_status",
+        "threatintel_lookup_ip",
+        "threatintel_lookup_domain",
+        "threatintel_lookup_hash",
+        "threatintel_lookup_url",
+        "feodo_tracker"
+      ]
+    },
+    {
+      "name": "io.github.UI5/mcp-server",
+      "package": "@ui5/mcp-server",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "get_guidelines",
+        "run_ui5_linter",
+        "get_api_reference",
+        "get_project_info",
+        "create_ui5_app",
+        "get_version_info",
+        "get_integration_cards_guidelines",
+        "create_integration_card",
+        "run_manifest_validation",
+        "get_typescript_conversion_guidelines"
+      ]
+    },
+    {
+      "name": "io.github.hostinger/hostinger-api-mcp",
+      "package": "hostinger-api-mcp",
+      "status": "success",
+      "toolCount": 118,
+      "tools": [
+        "hosting_importWordpressWebsite",
+        "hosting_deployWordpressPlugin",
+        "hosting_deployWordpressTheme",
+        "hosting_deployJsApplication",
+        "hosting_deployStaticWebsite",
+        "hosting_listJsDeployments",
+        "hosting_showJsDeploymentLogs",
+        "billing_getCatalogItemListV1",
+        "billing_createServiceOrderV1",
+        "billing_setDefaultPaymentMethodV1",
+        "billing_deletePaymentMethodV1",
+        "billing_getPaymentMethodListV1",
+        "billing_getSubscriptionListV1",
+        "billing_disableAutoRenewalV1",
+        "billing_enableAutoRenewalV1",
+        "DNS_getDNSSnapshotV1",
+        "DNS_getDNSSnapshotListV1",
+        "DNS_restoreDNSSnapshotV1",
+        "DNS_getDNSRecordsV1",
+        "DNS_updateDNSRecordsV1",
+        "DNS_deleteDNSRecordsV1",
+        "DNS_resetDNSRecordsV1",
+        "DNS_validateDNSRecordsV1",
+        "v2_getDomainVerificationsDIRECT",
+        "domains_checkDomainAvailabilityV1",
+        "domains_getDomainForwardingV1",
+        "domains_deleteDomainForwardingV1",
+        "domains_createDomainForwardingV1",
+        "domains_enableDomainLockV1",
+        "domains_disableDomainLockV1",
+        "domains_getDomainDetailsV1",
+        "domains_getDomainListV1",
+        "domains_purchaseNewDomainV1",
+        "domains_enablePrivacyProtectionV1",
+        "domains_disablePrivacyProtectionV1",
+        "domains_updateDomainNameserversV1",
+        "domains_getWHOISProfileV1",
+        "domains_deleteWHOISProfileV1",
+        "domains_getWHOISProfileListV1",
+        "domains_createWHOISProfileV1",
+        "domains_getWHOISProfileUsageV1",
+        "hosting_listAvailableDatacentersV1",
+        "hosting_generateAFreeSubdomainV1",
+        "hosting_verifyDomainOwnershipV1",
+        "hosting_listOrdersV1",
+        "hosting_listWebsitesV1",
+        "hosting_createWebsiteV1",
+        "reach_deleteAContactV1",
+        "reach_listContactGroupsV1",
+        "reach_listContactsV1",
+        "reach_createANewContactV1",
+        "reach_listSegmentsV1",
+        "reach_createANewContactSegmentV1",
+        "reach_listSegmentContactsV1",
+        "reach_getSegmentDetailsV1",
+        "reach_listProfilesV1",
+        "VPS_getDataCenterListV1",
+        "VPS_getProjectContainersV1",
+        "VPS_getProjectContentsV1",
+        "VPS_deleteProjectV1",
+        "VPS_getProjectListV1",
+        "VPS_createNewProjectV1",
+        "VPS_getProjectLogsV1",
+        "VPS_restartProjectV1",
+        "VPS_startProjectV1",
+        "VPS_stopProjectV1",
+        "VPS_updateProjectV1",
+        "VPS_activateFirewallV1",
+        "VPS_deactivateFirewallV1",
+        "VPS_getFirewallDetailsV1",
+        "VPS_deleteFirewallV1",
+        "VPS_getFirewallListV1",
+        "VPS_createNewFirewallV1",
+        "VPS_updateFirewallRuleV1",
+        "VPS_deleteFirewallRuleV1",
+        "VPS_createFirewallRuleV1",
+        "VPS_syncFirewallV1",
+        "VPS_getPostInstallScriptV1",
+        "VPS_updatePostInstallScriptV1",
+        "VPS_deletePostInstallScriptV1",
+        "VPS_getPostInstallScriptsV1",
+        "VPS_createPostInstallScriptV1",
+        "VPS_attachPublicKeyV1",
+        "VPS_deletePublicKeyV1",
+        "VPS_getPublicKeysV1",
+        "VPS_createPublicKeyV1",
+        "VPS_getTemplateDetailsV1",
+        "VPS_getTemplatesV1",
+        "VPS_getActionDetailsV1",
+        "VPS_getActionsV1",
+        "VPS_getAttachedPublicKeysV1",
+        "VPS_getBackupsV1",
+        "VPS_restoreBackupV1",
+        "VPS_setHostnameV1",
+        "VPS_resetHostnameV1",
+        "VPS_getVirtualMachineDetailsV1",
+        "VPS_getVirtualMachinesV1",
+        "VPS_purchaseNewVirtualMachineV1",
+        "VPS_getScanMetricsV1",
+        "VPS_installMonarxV1",
+        "VPS_uninstallMonarxV1",
+        "VPS_getMetricsV1",
+        "VPS_setNameserversV1",
+        "VPS_createPTRRecordV1",
+        "VPS_deletePTRRecordV1",
+        "VPS_setPanelPasswordV1",
+        "VPS_startRecoveryModeV1",
+        "VPS_stopRecoveryModeV1",
+        "VPS_recreateVirtualMachineV1",
+        "VPS_restartVirtualMachineV1",
+        "VPS_setRootPasswordV1",
+        "VPS_setupPurchasedVirtualMachineV1",
+        "VPS_getSnapshotV1",
+        "VPS_createSnapshotV1",
+        "VPS_deleteSnapshotV1",
+        "VPS_restoreSnapshotV1",
+        "VPS_startVirtualMachineV1",
+        "VPS_stopVirtualMachineV1"
+      ]
+    },
+    {
+      "name": "com.pulsemcp.servers/pulse-fetch",
+      "package": "@pulsemcp/pulse-fetch",
+      "status": "success",
+      "toolCount": 1,
+      "tools": [
+        "scrape"
+      ]
+    },
+    {
+      "name": "io.github.ProfessionalWiki/mediawiki-mcp-server",
+      "package": "@professional-wiki/mediawiki-mcp-server",
+      "status": "success",
+      "toolCount": 16,
+      "tools": [
+        "get-page",
+        "get-page-history",
+        "search-page",
+        "set-wiki",
+        "add-wiki",
+        "remove-wiki",
+        "update-page",
+        "get-file",
+        "create-page",
+        "upload-file",
+        "upload-file-from-url",
+        "delete-page",
+        "get-revision",
+        "undelete-page",
+        "get-category-members",
+        "search-page-by-prefix"
+      ]
+    },
+    {
+      "name": "io.github.SimplyLiz/ckb",
+      "package": "@tastehub/ckb",
+      "status": "failed",
+      "error": "tools/list response not found (stdout: 3525 bytes)"
+    },
+    {
+      "name": "io.github.manusa/podman-mcp-server",
+      "package": "podman-mcp-server",
+      "status": "failed",
+      "error": "panic: podman CLI not found"
+    },
+    {
+      "name": "io.github.HzaCode/onecite",
+      "package": "onecite",
+      "status": "failed",
+      "error": "Built sgmllib3k==1.0.0"
+    },
+    {
+      "name": "io.github.kesslerio/attio-mcp-server",
+      "package": "attio-mcp",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.antnewman/pm-analyse",
+      "package": "pm-mcp-servers",
+      "status": "failed",
+      "error": "An executable named `pm-mcp-servers` is not provided by package `pm-mcp-servers`."
+    },
+    {
+      "name": "io.github.antnewman/pm-validate",
+      "package": "pm-mcp-servers",
+      "status": "failed",
+      "error": "An executable named `pm-mcp-servers` is not provided by package `pm-mcp-servers`."
+    },
+    {
+      "name": "io.github.RLabs-Inc/gemini-mcp",
+      "package": "@rlabs-inc/gemini-mcp",
+      "status": "success",
+      "toolCount": 37,
+      "tools": [
+        "gemini-query",
+        "gemini-brainstorm",
+        "gemini-analyze-code",
+        "gemini-analyze-text",
+        "gemini-summarize",
+        "gemini-generate-image",
+        "gemini-image-prompt",
+        "gemini-start-image-edit",
+        "gemini-continue-image-edit",
+        "gemini-end-image-edit",
+        "gemini-list-image-sessions",
+        "gemini-generate-video",
+        "gemini-check-video",
+        "gemini-run-code",
+        "gemini-search",
+        "gemini-structured",
+        "gemini-extract",
+        "gemini-youtube",
+        "gemini-youtube-summary",
+        "gemini-analyze-document",
+        "gemini-summarize-pdf",
+        "gemini-extract-tables",
+        "gemini-analyze-url",
+        "gemini-compare-urls",
+        "gemini-extract-from-url",
+        "gemini-create-cache",
+        "gemini-query-cache",
+        "gemini-list-caches",
+        "gemini-delete-cache",
+        "gemini-speak",
+        "gemini-dialogue",
+        "gemini-list-voices",
+        "gemini-count-tokens",
+        "gemini-deep-research",
+        "gemini-check-research",
+        "gemini-research-followup",
+        "gemini-analyze-image"
+      ]
+    },
+    {
+      "name": "io.github.marianfoo/mcp-sap-docs",
+      "package": "mcp-sap-docs",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.taybenlor/runno",
+      "package": "@runno/mcp",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.GoogleCloudPlatform/gemini-cloud-assist-mcp",
+      "package": "@google-cloud/gemini-cloud-assist-mcp",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "fetch_investigation",
+        "create_investigation",
+        "run_investigation",
+        "add_observation"
+      ]
+    },
+    {
+      "name": "io.github.shinpr/mcp-image",
+      "package": "mcp-image",
+      "status": "success",
+      "toolCount": 1,
+      "tools": [
+        "generate_image"
+      ]
+    },
+    {
+      "name": "io.github.imran-siddique/agentos",
+      "package": "agentos-mcp-server",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "create_agent",
+        "attach_policy",
+        "test_agent",
+        "deploy_agent",
+        "get_agent_status",
+        "list_templates",
+        "request_approval",
+        "audit_log",
+        "create_policy",
+        "check_compliance"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-python",
+      "package": "@paretools/python",
+      "status": "success",
+      "toolCount": 14,
+      "tools": [
+        "pip-install",
+        "pip-list",
+        "pip-show",
+        "mypy",
+        "ruff-check",
+        "ruff-format",
+        "pip-audit",
+        "pytest",
+        "uv-install",
+        "uv-run",
+        "black",
+        "conda",
+        "pyenv",
+        "poetry"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-go",
+      "package": "@paretools/go",
+      "status": "success",
+      "toolCount": 11,
+      "tools": [
+        "build",
+        "test",
+        "vet",
+        "run",
+        "mod-tidy",
+        "fmt",
+        "generate",
+        "env",
+        "list",
+        "get",
+        "golangci-lint"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-cargo",
+      "package": "@paretools/cargo",
+      "status": "success",
+      "toolCount": 12,
+      "tools": [
+        "build",
+        "test",
+        "clippy",
+        "run",
+        "add",
+        "remove",
+        "fmt",
+        "doc",
+        "check",
+        "update",
+        "tree",
+        "audit"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-git",
+      "package": "@paretools/git",
+      "status": "success",
+      "toolCount": 24,
+      "tools": [
+        "status",
+        "log",
+        "log-graph",
+        "diff",
+        "branch",
+        "show",
+        "add",
+        "commit",
+        "push",
+        "pull",
+        "checkout",
+        "tag",
+        "stash-list",
+        "stash",
+        "remote",
+        "blame",
+        "restore",
+        "reset",
+        "cherry-pick",
+        "merge",
+        "rebase",
+        "reflog",
+        "bisect",
+        "worktree"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-lint",
+      "package": "@paretools/lint",
+      "status": "success",
+      "toolCount": 9,
+      "tools": [
+        "lint",
+        "format-check",
+        "prettier-format",
+        "biome-check",
+        "biome-format",
+        "stylelint",
+        "oxlint",
+        "shellcheck",
+        "hadolint"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/github",
+      "package": "@paretools/github",
+      "status": "success",
+      "toolCount": 22,
+      "tools": [
+        "pr-view",
+        "pr-list",
+        "pr-create",
+        "pr-merge",
+        "pr-comment",
+        "pr-review",
+        "pr-update",
+        "pr-checks",
+        "pr-diff",
+        "issue-view",
+        "issue-list",
+        "issue-create",
+        "issue-close",
+        "issue-comment",
+        "issue-update",
+        "run-view",
+        "run-list",
+        "run-rerun",
+        "release-create",
+        "gist-create",
+        "release-list",
+        "api"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-docker",
+      "package": "@paretools/docker",
+      "status": "success",
+      "toolCount": 16,
+      "tools": [
+        "ps",
+        "build",
+        "logs",
+        "images",
+        "run",
+        "exec",
+        "compose-up",
+        "compose-down",
+        "pull",
+        "inspect",
+        "network-ls",
+        "volume-ls",
+        "compose-ps",
+        "compose-logs",
+        "compose-build",
+        "stats"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/npm",
+      "package": "@paretools/npm",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "install",
+        "audit",
+        "outdated",
+        "list",
+        "run",
+        "test",
+        "init",
+        "info",
+        "search",
+        "nvm"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-http",
+      "package": "@paretools/http",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "request",
+        "get",
+        "post",
+        "head"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/go",
+      "package": "@paretools/go",
+      "status": "success",
+      "toolCount": 11,
+      "tools": [
+        "build",
+        "test",
+        "vet",
+        "run",
+        "mod-tidy",
+        "fmt",
+        "generate",
+        "env",
+        "list",
+        "get",
+        "golangci-lint"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-github",
+      "package": "@paretools/github",
+      "status": "success",
+      "toolCount": 22,
+      "tools": [
+        "pr-view",
+        "pr-list",
+        "pr-create",
+        "pr-merge",
+        "pr-comment",
+        "pr-review",
+        "pr-update",
+        "pr-checks",
+        "pr-diff",
+        "issue-view",
+        "issue-list",
+        "issue-create",
+        "issue-close",
+        "issue-comment",
+        "issue-update",
+        "run-view",
+        "run-list",
+        "run-rerun",
+        "release-create",
+        "gist-create",
+        "release-list",
+        "api"
+      ]
+    },
+    {
+      "name": "io.github.SamMorrowDrums/remarkable",
+      "package": "remarkable-mcp",
+      "status": "success",
+      "toolCount": 6,
+      "tools": [
+        "remarkable_read",
+        "remarkable_browse",
+        "remarkable_recent",
+        "remarkable_search",
+        "remarkable_status",
+        "remarkable_image"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/search",
+      "package": "@paretools/search",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "search",
+        "find",
+        "count",
+        "jq"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-make",
+      "package": "@paretools/make",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "run",
+        "list"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/make",
+      "package": "@paretools/make",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "run",
+        "list"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-build",
+      "package": "@paretools/build",
+      "status": "success",
+      "toolCount": 7,
+      "tools": [
+        "tsc",
+        "build",
+        "esbuild",
+        "vite-build",
+        "webpack",
+        "turbo",
+        "nx"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-test",
+      "package": "@paretools/test",
+      "status": "success",
+      "toolCount": 3,
+      "tools": [
+        "run",
+        "coverage",
+        "playwright"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/python",
+      "package": "@paretools/python",
+      "status": "success",
+      "toolCount": 14,
+      "tools": [
+        "pip-install",
+        "pip-list",
+        "pip-show",
+        "mypy",
+        "ruff-check",
+        "ruff-format",
+        "pip-audit",
+        "pytest",
+        "uv-install",
+        "uv-run",
+        "black",
+        "conda",
+        "pyenv",
+        "poetry"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/http",
+      "package": "@paretools/http",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "request",
+        "get",
+        "post",
+        "head"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/docker",
+      "package": "@paretools/docker",
+      "status": "success",
+      "toolCount": 16,
+      "tools": [
+        "ps",
+        "build",
+        "logs",
+        "images",
+        "run",
+        "exec",
+        "compose-up",
+        "compose-down",
+        "pull",
+        "inspect",
+        "network-ls",
+        "volume-ls",
+        "compose-ps",
+        "compose-logs",
+        "compose-build",
+        "stats"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/cargo",
+      "package": "@paretools/cargo",
+      "status": "success",
+      "toolCount": 12,
+      "tools": [
+        "build",
+        "test",
+        "clippy",
+        "run",
+        "add",
+        "remove",
+        "fmt",
+        "doc",
+        "check",
+        "update",
+        "tree",
+        "audit"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/test",
+      "package": "@paretools/test",
+      "status": "success",
+      "toolCount": 3,
+      "tools": [
+        "run",
+        "coverage",
+        "playwright"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/build",
+      "package": "@paretools/build",
+      "status": "success",
+      "toolCount": 7,
+      "tools": [
+        "tsc",
+        "build",
+        "esbuild",
+        "vite-build",
+        "webpack",
+        "turbo",
+        "nx"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/lint",
+      "package": "@paretools/lint",
+      "status": "success",
+      "toolCount": 9,
+      "tools": [
+        "lint",
+        "format-check",
+        "prettier-format",
+        "biome-check",
+        "biome-format",
+        "stylelint",
+        "oxlint",
+        "shellcheck",
+        "hadolint"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-npm",
+      "package": "@paretools/npm",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "install",
+        "audit",
+        "outdated",
+        "list",
+        "run",
+        "test",
+        "init",
+        "info",
+        "search",
+        "nvm"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/pare-search",
+      "package": "@paretools/search",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "search",
+        "find",
+        "count",
+        "jq"
+      ]
+    },
+    {
+      "name": "io.github.Dave-London/git",
+      "package": "@paretools/git",
+      "status": "success",
+      "toolCount": 24,
+      "tools": [
+        "status",
+        "log",
+        "log-graph",
+        "diff",
+        "branch",
+        "show",
+        "add",
+        "commit",
+        "push",
+        "pull",
+        "checkout",
+        "tag",
+        "stash-list",
+        "stash",
+        "remote",
+        "blame",
+        "restore",
+        "reset",
+        "cherry-pick",
+        "merge",
+        "rebase",
+        "reflog",
+        "bisect",
+        "worktree"
+      ]
+    },
+    {
+      "name": "io.github.PagerDuty/pagerduty-mcp",
+      "package": "pagerduty-mcp",
+      "status": "success",
+      "toolCount": 42,
+      "tools": [
+        "list_alert_grouping_settings",
+        "get_alert_grouping_setting",
+        "list_alerts_from_incident",
+        "get_alert_from_incident",
+        "list_change_events",
+        "get_change_event",
+        "list_service_change_events",
+        "list_incident_change_events",
+        "list_incidents",
+        "get_incident",
+        "get_outlier_incident",
+        "get_past_incidents",
+        "get_related_incidents",
+        "list_incident_notes",
+        "list_incident_workflows",
+        "get_incident_workflow",
+        "list_services",
+        "get_service",
+        "list_teams",
+        "get_team",
+        "list_team_members",
+        "get_user_data",
+        "list_users",
+        "list_schedules",
+        "get_schedule",
+        "list_schedule_users",
+        "list_oncalls",
+        "list_log_entries",
+        "get_log_entry",
+        "list_escalation_policies",
+        "get_escalation_policy",
+        "list_event_orchestrations",
+        "get_event_orchestration",
+        "get_event_orchestration_router",
+        "get_event_orchestration_service",
+        "get_event_orchestration_global",
+        "list_status_pages",
+        "list_status_page_severities",
+        "list_status_page_impacts",
+        "list_status_page_statuses",
+        "get_status_page_post",
+        "list_status_page_post_updates"
+      ]
+    },
+    {
+      "name": "io.github.imbenrabi/financial-modeling-prep-mcp-server",
+      "package": "financial-modeling-prep-mcp-server",
+      "status": "failed",
+      "error": "timeout"
+    },
+    {
+      "name": "io.github.Intina47/context-sync",
+      "package": "@context-sync/server",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.ankitpal181/toon-parse-mcp",
+      "package": "toon-parse-mcp",
+      "status": "failed",
+      "error": "Package `toon-parse-mcp` does not provide any executables."
+    },
+    {
+      "name": "io.github.goreleaser/mcp",
+      "package": "@goreleaser/mcp",
+      "status": "failed",
+      "error": "no output (server may need config/API key)"
+    },
+    {
+      "name": "io.github.Ansvar-Systems/eu-regulations-mcp",
+      "package": "@ansvar/eu-regulations-mcp",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "search_regulations",
+        "get_article",
+        "get_recital",
+        "list_regulations",
+        "compare_requirements",
+        "map_controls",
+        "check_applicability",
+        "get_definitions",
+        "get_evidence_requirements",
+        "about"
+      ]
+    },
+    {
+      "name": "io.github.Kastalien-Research/thoughtbox",
+      "package": "@kastalien-research/thoughtbox",
+      "status": "success",
+      "toolCount": 4,
+      "tools": [
+        "thoughtbox",
+        "notebook",
+        "mental_models",
+        "export_reasoning_chain"
+      ]
+    },
+    {
+      "name": "eu.ansvar/eu-regulations-mcp",
+      "package": "@ansvar/eu-regulations-mcp",
+      "status": "success",
+      "toolCount": 10,
+      "tools": [
+        "search_regulations",
+        "get_article",
+        "get_recital",
+        "list_regulations",
+        "compare_requirements",
+        "map_controls",
+        "check_applicability",
+        "get_definitions",
+        "get_evidence_requirements",
+        "about"
+      ]
+    },
+    {
+      "name": "io.github.augmnt/augments-mcp-server",
+      "package": "augments-mcp-server",
+      "status": "success",
+      "toolCount": 12,
+      "tools": [
+        "list_available_frameworks",
+        "search_frameworks",
+        "get_framework_info",
+        "get_framework_docs",
+        "get_framework_examples",
+        "search_documentation",
+        "get_framework_context",
+        "analyze_code_compatibility",
+        "check_framework_updates",
+        "refresh_framework_cache",
+        "get_cache_stats",
+        "get_registry_stats"
+      ]
+    },
+    {
+      "name": "dev.augments/mcp",
+      "package": "augments-mcp-server",
+      "status": "success",
+      "toolCount": 12,
+      "tools": [
+        "list_available_frameworks",
+        "search_frameworks",
+        "get_framework_info",
+        "get_framework_docs",
+        "get_framework_examples",
+        "search_documentation",
+        "get_framework_context",
+        "analyze_code_compatibility",
+        "check_framework_updates",
+        "refresh_framework_cache",
+        "get_cache_stats",
+        "get_registry_stats"
+      ]
+    },
+    {
+      "name": "io.github.totonga/odsbox-jaquel-mcp",
+      "package": "odsbox-jaquel-mcp",
+      "status": "success",
+      "toolCount": 22,
+      "tools": [
+        "query_validate",
+        "query_get_operator_docs",
+        "query_get_pattern",
+        "query_list_patterns",
+        "query_generate_skeleton",
+        "query_describe",
+        "schema_get_entity",
+        "schema_field_exists",
+        "ods_connect",
+        "ods_disconnect",
+        "ods_get_connection_info",
+        "schema_list_entities",
+        "query_execute",
+        "data_get_quantities",
+        "data_read_submatrix",
+        "data_generate_fetcher_script",
+        "plot_comparison_notebook",
+        "plot_generate_code",
+        "data_compare_measurements",
+        "data_query_hierarchy",
+        "help_bulk_api",
+        "schema_test_to_measurement_hierarchy"
+      ]
+    },
+    {
+      "name": "io.github.linxule/lotus-wisdom",
+      "package": "lotus-wisdom-mcp",
+      "status": "success",
+      "toolCount": 2,
+      "tools": [
+        "lotuswisdom",
+        "lotuswisdom_summary"
+      ]
+    },
+    {
+      "name": "io.github.sellisd/mcp-units",
+      "package": "mcp-units",
+      "status": "success",
+      "toolCount": 3,
+      "tools": [
+        "convert_temperature",
+        "convert_volume",
+        "convert_weight"
+      ]
+    },
+    {
+      "name": "io.github.mapbox/mcp-devkit-server",
+      "package": "@mapbox/mcp-devkit-server",
+      "status": "success",
+      "toolCount": 23,
+      "tools": [
+        "list_styles_tool",
+        "create_style_tool",
+        "retrieve_style_tool",
+        "update_style_tool",
+        "delete_style_tool",
+        "preview_style_tool",
+        "style_builder_tool",
+        "geojson_preview_tool",
+        "check_color_contrast_tool",
+        "compare_styles_tool",
+        "optimize_style_tool",
+        "style_comparison_tool",
+        "create_token_tool",
+        "list_tokens_tool",
+        "bounding_box_tool",
+        "country_bounding_box_tool",
+        "coordinate_conversion_tool",
+        "get_feedback_tool",
+        "list_feedback_tool",
+        "tilequery_tool",
+        "validate_expression_tool",
+        "validate_geojson_tool",
+        "validate_style_tool"
+      ]
+    },
+    {
+      "name": "io.github.Inflectra/mcp-server-spira",
+      "package": "mcp-server-spira",
+      "status": "failed",
+      "error": "Package `mcp-server-spira` does not provide any executables."
+    },
+    {
+      "name": "capital.hove/read-only-local-mysql-mcp-server",
+      "package": "@hovecapital/read-only-mysql-mcp-server",
+      "status": "success",
+      "toolCount": 3,
+      "tools": [
+        "connect",
+        "disconnect",
+        "query"
+      ]
+    },
+    {
+      "name": "io.github.JustasMonkev/mcp-accessibility-scanner",
+      "package": "mcp-accessibility-scanner",
+      "status": "success",
+      "toolCount": 27,
+      "tools": [
+        "browser_close",
+        "browser_resize",
+        "browser_console_messages",
+        "browser_handle_dialog",
+        "browser_evaluate",
+        "browser_file_upload",
+        "browser_fill_form",
+        "browser_install",
+        "browser_press_key",
+        "browser_type",
+        "browser_navigate",
+        "browser_navigate_back",
+        "browser_network_requests",
+        "browser_take_screenshot",
+        "browser_snapshot",
+        "browser_click",
+        "browser_drag",
+        "browser_hover",
+        "browser_select_option",
+        "scan_page",
+        "browser_tabs",
+        "browser_navigation_timeout",
+        "browser_default_timeout",
+        "browser_wait_for",
+        "audit_site",
+        "scan_page_matrix",
+        "audit_keyboard"
+      ]
+    },
+    {
+      "name": "io.github.verygoodplugins/mcp-automem",
+      "package": "@verygoodplugins/mcp-automem",
+      "status": "success",
+      "toolCount": 6,
+      "tools": [
+        "store_memory",
+        "recall_memory",
+        "associate_memories",
+        "update_memory",
+        "delete_memory",
+        "check_database_health"
+      ]
+    },
+    {
+      "name": "io.github.addozhang/nexus",
+      "package": "nexus-mcp-server",
+      "status": "failed",
+      "error": "An executable named `nexus-mcp-server` is not provided by package `nexus-mcp-server`."
+    },
+    {
+      "name": "io.github.marcelo-ochoa/oracle",
+      "package": "@marcelo-ochoa/server-oracle",
+      "status": "success",
+      "toolCount": 5,
+      "tools": [
+        "orcl-query",
+        "orcl-explain",
+        "orcl-stats",
+        "orcl-connect",
+        "orcl-awr"
+      ]
+    }
+  ]
+}

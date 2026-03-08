@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Python",
+    "slug": "python",
+    "servers": []
+  },
+  {
+    "name": "Go",
+    "slug": "go",
+    "servers": []
+  },
+  {
+    "name": "Java",
+    "slug": "java",
+    "servers": []
+  },
+  {
+    "name": "Ruby",
+    "slug": "ruby",
+    "servers": []
+  },
+  {
+    "name": "PHP",
+    "slug": "php",
+    "servers": []
+  },
+  {
+    "name": "Docker",
+    "slug": "docker",
+    "servers": []
+  },
+  {
+    "name": "TypeScript",
+    "slug": "typescript",
+    "servers": []
+  },
+  {
+    "name": "Rust",
+    "slug": "rust",
+    "servers": []
+  },
+  {
+    "name": "C#",
+    "slug": "csharp",
+    "servers": []
+  },
+  {
+    "name": "Swift",
+    "slug": "swift",
+    "servers": []
+  },
+  {
+    "name": "Kotlin",
+    "slug": "kotlin",
+    "servers": []
+  },
+  {
+    "name": "Node.js",
+    "slug": "nodejs",
+    "servers": []
+  }
+]
